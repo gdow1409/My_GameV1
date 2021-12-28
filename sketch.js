@@ -11,7 +11,7 @@ playerimg2 = loadImage("left.png")
 Coinimg = loadImage("coin.png")
 Hammerimg = loadImage("hammer.png")
 Heartimg = loadImage("Heart.png")
-Backgroundimg = loadImage("background.jpg")
+Backgroundimg = loadImage("backdrop.jpg")
 Stoneimg = loadImage("Stone wall.png")
 }
 
